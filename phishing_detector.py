@@ -22,3 +22,4 @@ if __name__ == "__main__":
     user_input = input("Paste the email content here:\n")
     result = is_phishing_email(user_input)
     print(result)
+    input("Press Enter to exit...")
